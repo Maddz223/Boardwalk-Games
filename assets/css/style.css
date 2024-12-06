@@ -25,3 +25,13 @@ h3 {
 .sub-heading-color {
     color: var(--highlight-color);
 }
+
+.container,
+.row {
+    border: 2px solid black;
+}
+
+.col-12 {
+    border: 2px solid white;
+    background-color: lightgray;
+}
