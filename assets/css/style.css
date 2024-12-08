@@ -26,6 +26,15 @@ h3 {
   color: var(--highlight-color);
 }
 
+/*Navbar */
+#navbar {
+  background-color: var(--primary-color);
+}
+
+#navbar .logo{
+  width: 30px;
+}
+
 /*.container,
 .row {
     border: 2px solid black;
