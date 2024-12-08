@@ -65,6 +65,13 @@ h2 {
 #services .card{
   margin-bottom: 1rem;
 }
+
+/* Game library cards */
+
+#new-games .card,
+#fav-games .card {
+    border: none;
+}
 /*.container,
 .row {
     border: 2px solid black;
