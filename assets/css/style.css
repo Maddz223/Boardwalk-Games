@@ -132,11 +132,12 @@ h2 {
 #contact .table-dark * {
   background-color: transparent;
 }
-
-.text-center > p {
+#center {
+  text-align: center;
   background-color: var(--highlight-color);
-  color: white;
   padding: 0.5rem;
+  color: white;
+  
 }
 
 /* Media queries */
