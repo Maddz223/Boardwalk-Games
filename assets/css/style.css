@@ -132,6 +132,11 @@ h2 {
 #contact .table-dark * {
   background-color: transparent;
 }
+
+.text-back {
+  background-color: var(--highlight-color);
+  color: white;
+}
 /*.container,
 .row {
     border: 2px solid black;
