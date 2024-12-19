@@ -39,6 +39,17 @@ h2 {
 .sub-heading-color {
   color: var(--highlight-color);
 }
+/* Buttons */
+.custom-button-filled {
+  border: 2px solid var(--highlight-color);
+  background-color: var(--highlight-color);
+  color: white;
+}
+.custom-button-filled:hover {
+  border: 2px solid var(--secondary-color);
+  background-color: var(--secondary-color);
+  color: white;
+}
 
 /*Navbar */
 #navbar {
