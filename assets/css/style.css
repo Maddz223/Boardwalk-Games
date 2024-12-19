@@ -137,7 +137,6 @@ h2 {
   background-color: var(--highlight-color);
   padding: 0.5rem;
   color: white;
-  
 }
 
 /* Media queries */
@@ -147,6 +146,9 @@ h2 {
 @media screen and (min-width: 768px) {
   #services .card-body {
     min-height: 191px;
+  }
+  #center {
+    width: 350px !important;
   }
 }
 /* large devices (tablets, 992px and up) */
